@@ -2,7 +2,7 @@
 Here you can enjoy  new project of c/c++
 All the project are created by _._manish_._kmt_._
 
-This project of the game like guessung and search random number. you can olay this and really enjoy the game.
+This project of the game like guessung and search random number. you can play this and really enjoy the game.
 
 #include<stdio.h>
 #include<stdlib.h>
